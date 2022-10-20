@@ -1,5 +1,5 @@
 # My_Coding_DataScience
 All assignments for the class will be listed here.
 
-There will be approximately 3-4 homework assignments, each with a number of programming problems.
+There will be approximately 10-12 homework assignments, each with a number of programming problems.
 There may be additional sets of practice problems assigned to help reinforce various topics.
